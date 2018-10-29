@@ -1,0 +1,25 @@
+{
+  "name": "curl-transaction-webgl-impl",
+  "version": "1.0.0",
+  "description": "WebGL implementation for curl-transaction-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/curl-transaction-webgl-impl.git"
+  },
+  "keywords": [
+    "IOTA"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/curl-transaction-webgl-impl/issues"
+  },
+  "homepage": "https://github.com/pRizz/curl-transaction-webgl-impl#readme",
+  "dependencies": {
+    "curl.lib.js": "github:pRizz/curl.lib.js#webgl1"
+  }
+}
